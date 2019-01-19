@@ -29,3 +29,8 @@ VNC： https://www.jianshu.com/p/467335f07e05
 目标检测网络demo：https://blog.csdn.net/leadai/article/details/79737226
 
 SiameseFC的tf：https://blog.csdn.net/sansanfree/article/details/79718734
+siamese源码：https://github.com/lzane/SiamFC-tf （8 stars)
+siamese源码：https://github.com/torrvision/siamfc-tf/ （415 stars）
+siamese源码：https://github.com/bilylee/SiamFC-TensorFlow （179 stars）
+
+tensorflow的50个经典案例：https://blog.csdn.net/xzy_thu/article/details/76220654 
